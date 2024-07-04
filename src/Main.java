@@ -25,5 +25,6 @@ public class Main {
         EmployeeBook.printEmployeesInDepartment(1);
         EmployeeBook.printEmployeesWithSalaryBelow(100_000.0);
         EmployeeBook.printEmployeesWithSalaryAbove(100_000.0);
+        System.out.println("ПРОСТИТЕ, Я ЗАБЫЛ СОВСЕМ ПРО ГИТ (((((");
     }
 }
